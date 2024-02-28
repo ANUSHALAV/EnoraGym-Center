@@ -141,6 +141,8 @@
         padding-block: 200px;
         margin-left: 10%;
     }
+    .result-section{
+        height:fit-content;
 
     .right-text {
         padding: 10px 15px;
